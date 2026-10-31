@@ -31,4 +31,4 @@ Final notice
 
 Even if rewindOS is a small, relatively unknown project, security risks still exist. An obscure project is not automatically safe from hackers, malware or vulnerabilities.
 
-Use at your own risk.
+USE AT YOUR OWN RISK.
