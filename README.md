@@ -1,6 +1,3 @@
-# rewindOS
-rewindOS is an experimental 64-bit operating system built from scratch in C and Assembly. Inspired by Windows XP and Windows 10, it aims to provide a lightweight desktop, custom applications and its own app ecosystem. Currently in early development and not yet secure for everyday use.
-
 ⚠️ WARNING ⚠️: rewindOS is experimental software and is NOT currently secure enough for everyday or production use.
 
 rewindOS is an early-stage operating system project. Its security has not been independently audited or thoroughly tested.
