@@ -1,0 +1,35 @@
+Installation Instructions
+
+rewindOS – Experimental Installation Guide
+
+Current status
+
+rewindOS is currently an early development prototype. A complete bootable ISO and Windows-style installer are not available yet.
+
+Requirements
+
+- 64-bit x86 PC
+- USB drive (for future installation)
+- Virtual machine software such as QEMU or VirtualBox (recommended for testing)
+
+Current development build
+
+1. Download the rewindOS source ZIP from the GitHub Releases page.
+2. Extract the ZIP.
+3. Read the "README.md" file.
+4. Follow the build instructions in "docs/BUILDING.md".
+5. Compile the kernel using the provided build system.
+6. Boot only through a supported development environment once the required boot files are available.
+
+Important warnings
+
+- The current kernel ELF is not a bootable ISO.
+- Do not attempt to install it directly onto your PC.
+- Do not format or modify your Windows drive.
+- Test experimental builds in a virtual machine with a disposable virtual disk.
+
+Future installation
+
+A Windows-style USB installer is planned. It will eventually provide language selection, disk selection, installation progress and first-time account setup.
+
+Thank you for trying rewindOS!
